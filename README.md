@@ -1,6 +1,6 @@
 Data-Analysis-Tableau-Airbnb
 
-Data Visualization Project – This Time with Tableau!
+Data Visualization Project –Tableau
 
 This dashboard explores housing price trends based on:
 
